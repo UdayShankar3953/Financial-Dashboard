@@ -37,14 +37,14 @@ The Financial Dashboard is a web application that helps users manage their finan
 ## Screenshots
 
 ### Homepage
-![Homepage Screenshot](assets/screenshots/1.png)
+![Homepage Screenshot](Screenshots/1.png)
 
 ### Exchange Rates & Stock Prices
-![Stock Prices Screenshot](assets/screenshots/2.png)
+![Stock Prices Screenshot](Screenshots/2.png)
 
 ### Fetch User Data
-![User Data Screenshot](assets/screenshots/3.png)
+![User Data Screenshot](Screenshots/3.png)
 
 ### Input Validation
-![Input Validation Screenshot](assets/screenshots/4.png)
+![Input Validation Screenshot](Screenshots/4.png)
 
