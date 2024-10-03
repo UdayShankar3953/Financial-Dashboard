@@ -30,8 +30,21 @@ The Financial Dashboard is a web application that helps users manage their finan
    ```bash
    npm install
 ## Running the Application
-To run the application in development mode, use the following command:
+1. To run the application in development mode, use the following command:
    ```bash
    npm start
 
+## Screenshots
+
+### Homepage
+![Homepage Screenshot](assets/screenshots/1.png)
+
+### Exchange Rates & Stock Prices
+![Stock Prices Screenshot](assets/screenshots/2.png)
+
+### Fetch User Data
+![User Data Screenshot](assets/screenshots/3.png)
+
+### Input Validation
+![Input Validation Screenshot](assets/screenshots/4.png)
 
